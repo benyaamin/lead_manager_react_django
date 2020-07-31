@@ -16,3 +16,7 @@ npm run dev
 # Build for production
 npm run build
 ````
+
+## Referencias
+
+Traversy Media. https://www.youtube.com/watch?v=Uyei2iDA4Hs&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60
